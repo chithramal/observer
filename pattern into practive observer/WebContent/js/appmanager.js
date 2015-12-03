@@ -25,5 +25,6 @@
             subject.unObserve(observer);
 
             subject.remove(data);
+            alert('hi');
 
 });
