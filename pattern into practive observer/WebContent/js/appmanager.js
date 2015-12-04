@@ -25,6 +25,6 @@
             subject.unObserve(observer);
 
             subject.remove(data);
-            alert('hi');
+          alert('this is another change')
 
 });
